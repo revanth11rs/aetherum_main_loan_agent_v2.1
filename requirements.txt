@@ -1,0 +1,13 @@
+pydantic
+Flask
+flask-cors
+requests
+python-dotenv
+streamlit
+groq
+redis
+tabulate
+pymongo
+fastapi
+uvicorn
+pycoingecko
