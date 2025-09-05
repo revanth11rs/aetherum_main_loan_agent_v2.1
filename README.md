@@ -1,4 +1,4 @@
-# Aetherum v2
+# Aetherum v2.1
 
 Production-ready rewrite of the crypto-backed loan calculator with:
 - Flask API backend
