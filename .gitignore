@@ -1,0 +1,16 @@
+# Python cache / compiled files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS junk files
+.DS_Store
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Logs
+*.log
